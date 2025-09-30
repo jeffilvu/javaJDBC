@@ -22,3 +22,12 @@
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
 replay_pid*
+
+# Configurações da IDE (VS Code)
+.vscode/
+
+# Arquivo de propriedades de banco de dados (CONTÉM SENHAS!)
+db.properties
+
+# Bibliotecas (se estiver usando Maven/Gradle, se não, pode remover esta linha)
+# lib/
